@@ -76,6 +76,8 @@ else {
     console.log("Точка в начале координат");
 }
 */
+
+//Sixth exercise
 /*
 let numberMonth = +process.argv[2];
 
@@ -120,7 +122,7 @@ switch(numberMonth) {
         console.log("Такого месяца нет")
         break;
 }*/
-
+// seventh exercise
 let firstNumber = +process.argv[2];
 
 let secondNumber = +process.argv[3];
