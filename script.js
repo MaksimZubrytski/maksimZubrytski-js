@@ -38,7 +38,7 @@ let c = 1;
 
 function discriminant(a, b, c) {
     let x;
-    if((b*b - 4*a*c) > 0) //Если дискриминант больше или равен 0
+    if((b*b - 4*a*c) > 0) 
     {
         x = (-b + Math.sqrt(b*b - 4*a*c))  / (2 * a);
         console.log("Первый корень равен " + x);
